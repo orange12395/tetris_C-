@@ -1,0 +1,10 @@
+C:\Users\Kim guenhoon\source\repos\newtetris\newtetris\bin\Debug\newtetris.exe.config
+C:\Users\Kim guenhoon\source\repos\newtetris\newtetris\bin\Debug\newtetris.exe
+C:\Users\Kim guenhoon\source\repos\newtetris\newtetris\bin\Debug\newtetris.pdb
+C:\Users\Kim guenhoon\source\repos\newtetris\newtetris\obj\Debug\newtetris.csprojAssemblyReference.cache
+C:\Users\Kim guenhoon\source\repos\newtetris\newtetris\obj\Debug\newtetris.Form1.resources
+C:\Users\Kim guenhoon\source\repos\newtetris\newtetris\obj\Debug\newtetris.Properties.Resources.resources
+C:\Users\Kim guenhoon\source\repos\newtetris\newtetris\obj\Debug\newtetris.csproj.GenerateResource.cache
+C:\Users\Kim guenhoon\source\repos\newtetris\newtetris\obj\Debug\newtetris.csproj.CoreCompileInputs.cache
+C:\Users\Kim guenhoon\source\repos\newtetris\newtetris\obj\Debug\newtetris.exe
+C:\Users\Kim guenhoon\source\repos\newtetris\newtetris\obj\Debug\newtetris.pdb
